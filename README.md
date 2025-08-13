@@ -5,6 +5,7 @@ Bem-vindo(a) ao meu repositório de estudos em Python!
 Este espaço foi criado para centralizar todo o meu aprendizado, exercícios, projetos e anotações enquanto avanço no domínio da linguagem.
 
 🎯 Objetivo
+
 Meu objetivo com este repositório é:
 
 Consolidar o conhecimento adquirido através da prática.
@@ -29,6 +30,7 @@ random para gerar valores aleatórios
 Outras bibliotecas conforme avançar nos estudos
 
 📅 Progresso dos Estudos
+
 ✅ Fundamentos de Python
 
 ✅ Estruturas de Dados
@@ -49,5 +51,6 @@ Criar projetos práticos para consolidar conceitos.
 Iniciar estudos em desenvolvimento web com Flask/Django.
 
 📌 Observação
+
 Este repositório será atualizado constantemente conforme avanço nos estudos.
 Se quiser acompanhar minha evolução, fique à vontade para clonar ou seguir o repositório!
