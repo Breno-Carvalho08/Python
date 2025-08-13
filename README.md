@@ -1,5 +1,6 @@
 # Python
 📚 Estudos em Python
+
 Bem-vindo(a) ao meu repositório de estudos em Python!
 Este espaço foi criado para centralizar todo o meu aprendizado, exercícios, projetos e anotações enquanto avanço no domínio da linguagem.
 
